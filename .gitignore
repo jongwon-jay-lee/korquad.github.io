@@ -1,1 +1,5 @@
 _site/
+
+# ignore unzip data
+dataset/KorQuAD_2.1_unzip/**
+
